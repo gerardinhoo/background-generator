@@ -3,4 +3,4 @@
 ## How to run this project:
 1. Clone or Download the project.
 2. Open the html file in the browser to preview the project.
-3. Check out the project live [here](https://gerardinhoo.github.io/background-genrerator/)
+3. Check out the project live [here](https://gerardinhoo.github.io/background-generator/)
